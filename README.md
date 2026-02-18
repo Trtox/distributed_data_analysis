@@ -1,4 +1,4 @@
-# OPOS Project - Big Data Analysis with Apache Spark
+# Big Data Analysis with Apache Spark
 
 This repository contains two Apache Spark-based projects developed for distributed data processing:
 
